@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Blue/Dodge.unity
+    guid: 87b34e47d01194ac2b3fed13b2c53d86
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Blue/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Green/GreenT.unity
+    guid: 50c0c5b9068c74370a55d7609ba8a635
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Green/Green.unity
+    guid: 375f0c6680882410f872ee99b6a18de7
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Blue/Themes.unity
+    guid: 0f541c8d4f3ba477a831cf2cf389dc49
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Orange/Orange.unity
+    guid: 41ea2519ccef44278b917bb06d1c69ef
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Orange/OrangeMenu.unity
+    guid: e161701611dae4061bf4b67c982e8e1c
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Orange/OrangeT.unity
+    guid: 46c0d2558512e41db90c0307a0f3f6fd
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Purple/Purple.unity
+    guid: edd63abd7807f48d6b99d1d67317d2d8
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Green/GreenMenu.unity
+    guid: ac92911a1a40a4f62b56a9b8952c8427
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Yellow/YellowMenu.unity
+    guid: be8a289a3692f42c3953b09ef80c1b59
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Purple/PurpleMenu.unity
+    guid: 1c73f960a1071407f888c97b4cae4758
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Purple/PurpleT.unity
+    guid: 22ed34c471c98478f8fe1e022545b3b9
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Red/RedMenu.unity
+    guid: e64da1e2486a64d8b840729286ee612c
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Red/Red.unity
+    guid: 198e0d463900b4135bc5c249530146d9
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Red/RedT.unity
+    guid: fd9faa4b6499544d9873788acb8c93b8
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Yellow/YellowT.unity
+    guid: 89137c6ea9e764fbab75e867b161df0f
+  - enabled: 1
+    path: Assets/Dodge Game/Scenes/Yellow/Yellow.unity
+    guid: 5d8c4f8454488407d82d3da95ad80712
+  m_configObjects: {}
